@@ -7,3 +7,5 @@ beautifulsoup4
 geopy
 fastapi
 uvicorn
+pypdf
+beautifulsoup4
